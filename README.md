@@ -126,6 +126,10 @@ scripts/
 terraform/
 ```
 
+## Screenshot
+
+![Initial Project](screenshots/Initial_Project.png)
+
 ## Notes
 
 - The container image is referenced as `self-healing-app:v1` in the manifest. Update this if you push a new image tag.
